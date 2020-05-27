@@ -18,7 +18,6 @@ Po co nam "programowanie", skryptowanie?
 
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
 
-https://www.kaggle.com/beatastark/kernel6418f55e14/edit
 
 
 ---
@@ -88,8 +87,24 @@ https://fotogrametria.agh.edu.pl/~galia/sd_pwgh/SD_BH_PK_2020-04-15_15-19-11.mkv
 ----
 ### Grupa średniozaawansowana
 
-2020-04-22 - MT
+2020-04-15 - MT
+https://fotogrametria.agh.edu.pl/~misiek/websd_me98tuyx/2020-04-15_14-52-webinar.mkv
+https://fotogrametria.agh.edu.pl/~misiek/websd_me98tuyx/2020-04-15_code.zip
 https://fotogrametria.agh.edu.pl/~misiek/websd_me98tuyx/instalacja_aconda_vscode_x264_32.mp4
 https://fotogrametria.agh.edu.pl/~misiek/websd_me98tuyx/instalacja_anaconda_vscode.zip
+
+2020-04-22 - MT
+https://fotogrametria.agh.edu.pl/~misiek/websd_me98tuyx/2020-04-22_13-07-webinar.mkv
+https://fotogrametria.agh.edu.pl/~misiek/websd_me98tuyx/2020-04-22_13-07_code.zip
+
+
+2020-04-29 - MT
+https://fotogrametria.agh.edu.pl/~misiek/websd_me98tuyx/2020-04-29_13-06-webinar.mkv
+https://fotogrametria.agh.edu.pl/~misiek/websd_me98tuyx/2020-04-29_13-06_code.zip
+
+2020-05-06 - MT
+https://fotogrametria.agh.edu.pl/~misiek/websd_me98tuyx/2020-05-06_13-04-webinar.mkv
+https://fotogrametria.agh.edu.pl/~misiek/websd_me98tuyx/2020-05-06_13-04_code.zip
+
 
 ---
